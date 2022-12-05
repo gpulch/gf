@@ -1,0 +1,12 @@
+/* 
+    !!! Reprendre la syntaxe pour rendre sa plus lisible
+
+    1: Afficher "Aucun jeu trouvé" quand la recherche ne trouve aucun jeu. ✅
+    2: Crée la page "compte"
+    3: Search bar ✅
+    4: Rendre responsive Tablette / PC (Carousel Documentation pour les tailles)
+    5: Changer le logo pour un VRAI logo
+    6: Crée la page "More..."
+    7: Changer l'unité de taille des textes dans font.css ✅
+*/
+

@@ -1,0 +1,31 @@
+@media only screen and (max-width:600px) {
+
+    .presentation h1 {
+        font-size: 3vh;
+    }
+
+    .presentation p {
+        font-size: 2vh;
+    }
+
+    h1 {
+        font-size: 3vh;
+    }
+
+    p {
+        font-size: 2vh;
+    }
+
+    a {
+        font-size: 2vh;
+    }
+
+    .searchInput {
+        font-size: 2vh;
+    }
+
+    .noGameFound h2 {
+        font-size: 4vh;
+    }
+
+}

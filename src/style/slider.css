@@ -1,0 +1,77 @@
+@media only screen and (max-width:600px) {
+
+.caroussel {
+    padding-bottom: 35%;
+}
+
+.slider {
+    overflow: hidden;
+    touch-action: none;
+    border-radius: 30px;
+    background-color: #32383e;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    /* pointer-events: none; */
+}
+
+.slider h1, .slider p {
+    color : rgba(255, 255, 255, 0.8);
+    text-overflow: ellipsis;
+    
+}
+
+.slider h1 {
+    margin-bottom: 3%;
+}
+
+.slider .game_img {
+    border-radius: 30px 30px 0px 0px;
+    width: 100%;
+    
+}
+
+.slider .game_el {
+    margin: 1.5% 5% 5% 5%;
+}
+
+.slider .game_el_footer {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 4%;
+    width: 90%;
+}
+
+.slider .game_el_footer_right {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.slider .game_el_footer_left {
+    display: flex;
+}
+
+.slider .game_el_footer_left a {
+    text-decoration: none;
+}
+
+.slider .game_el_footer p {
+    padding: 5px;
+    background-color: #7a8288;
+    opacity: 0.8;
+    border-radius: 10px;
+    color: #272b30;
+    white-space: nowrap;
+}
+
+.slider .platform_img {
+    width: 4vh;
+    opacity: 0.8;
+    margin-left: 10%;
+}
+
+}
